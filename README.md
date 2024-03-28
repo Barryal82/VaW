@@ -51,9 +51,7 @@ To use this project, follow these steps:
    ```
 
 5. Follow the on-screen instructions or refer to the project documentation for further guidance on how to interact with the application.
-```
 
-## License
+### **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
